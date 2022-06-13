@@ -8,4 +8,4 @@ nums[3]=(-nums[1]+sqrt(nums[1]*nums[1]-4*nums[0]*nums[2]))/(2*nums[0]);
 nums[4]=(-nums[1]-sqrt(nums[1]*nums[1]-4*nums[0]*nums[2]))/(2*nums[0]);
 if(nums[1]*nums[1]-(4*nums[0]*nums[2])<0){println("No real number solutions.");}else{println(nums[0]+" x²+ " + nums[1]+ "x"+"+"+ nums[2]+ "="+"0");
 println("x="+nums[3]+" or " +nums[4]+"." );}
-//hard
+//hard//very
