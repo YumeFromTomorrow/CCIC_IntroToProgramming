@@ -1,5 +1,5 @@
 void setup(){
- print(sumOfAngles(3)); 
+ print(sumOfAngles(5)); 
 }
 
 int sumOfAngles(int n){return (n-2)*180;}
